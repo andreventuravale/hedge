@@ -1,0 +1,27 @@
+{
+  "author": {
+    "email": "andreventuravale@gmail.com",
+    "name": "André Vale"
+  },
+  "bin": {
+    "bush": "index.mjs"
+  },
+  "dependencies": {
+    "lodash-es": "^4.17.21",
+    "minimist": "^1.2.8",
+    "sort-keys": "^5.0.0",
+    "yaml": "^2.2.2",
+    "yn": "^5.0.0",
+    "zod": "^3.21.4"
+  },
+  "main": "index.mjs",
+  "name": "bush",
+  "scripts": {
+    "lint": "standard --fix"
+  },
+  "type": "module",
+  "version": "0.0.0",
+  "devDependencies": {
+    "standard": "^17.0.0"
+  }
+}
