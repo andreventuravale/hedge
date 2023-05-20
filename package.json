@@ -4,7 +4,7 @@
     "name": "André Vale"
   },
   "bin": {
-    "bush": "index.mjs"
+    "hedge": "index.mjs"
   },
   "dependencies": {
     "lodash-es": "^4.17.21",
@@ -15,7 +15,7 @@
     "zod": "^3.21.4"
   },
   "main": "index.mjs",
-  "name": "bush",
+  "name": "hedge",
   "scripts": {
     "lint": "standard --fix"
   },
